@@ -1,13 +1,13 @@
 ## Startup Guide
 
 ### Steps To Setup The RoundyFi in General
-1. Download and install Arduino IDE 
+#### 1. Download and install Arduino IDE 
    https://www.arduino.cc/en/software
 
-2. Open Arduino IDE
+#### 2. Open Arduino IDE
    ![Alt text](/images/img6.JPG?)
 
-3. Now install Esp8266 board, for this go to file -> preferences
+#### 3. Now install Esp8266 board, for this go to file -> preferences
    ![Alt text](/images/img7.png" />
   
    * Paste two urls,in "additional board manager urls"
