@@ -42,4 +42,5 @@
 
 2. Load the .INO File
 
+open the .ino file in the /RoundyStockMonitor Directory. then simply upload the code and run the program.
 
