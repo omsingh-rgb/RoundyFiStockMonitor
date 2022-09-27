@@ -14,11 +14,14 @@
   
    * Paste two urls,in 'additional board manager urls'
    
-     ```http://arduino.esp8266.com/stable/package_esp8266com_index.json
+     ```
+     http://arduino.esp8266.com/stable/package_esp8266com_index.json
      
-     https://dl.espressif.com/dl/package_esp32_index.json```
+     https://dl.espressif.com/dl/package_esp32_index.json
+     ```
+    
+    * It should look like this
      
-    Looking like the following
     ![Alt text](/images/img8.png)
    
    * Now install ESP8266 board, go tools -> boards -> board manager
